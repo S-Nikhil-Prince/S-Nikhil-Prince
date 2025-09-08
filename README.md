@@ -52,9 +52,11 @@
 
 ## 🌐 Connect  
 
-- 📧 **Email**: *your-email@example.com*  
-- 💼 **LinkedIn**: [Your Profile](https://linkedin.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/nikhil-prince-sodadasi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
----
 
 ✨ *Minimal profile. Daily commits. Steady growth.*

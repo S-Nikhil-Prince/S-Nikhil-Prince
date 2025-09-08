@@ -1,55 +1,27 @@
-# Hi there 👋, I'm Nikhil Prince  
+<!--
+Hi there! This is a professional and minimal GitHub profile README.md template.
+To use it, simply copy the entire code and paste it into a new README.md file in a repository with the same name as your GitHub username.
 
-🚀 Passionate about **VLSI, Verilog, and Python** | Lifelong Learner | Sharing my coding journey step by step  
+Remember to replace all placeholders like YOUR_USERNAME and YOUR_BIO with your own information.
+-->
 
----
+Hi there! 👋
+I'm YOUR_NAME, a passionate YOUR_BIO_OR_TITLE based in YOUR_LOCATION. I specialize in YOUR_PRIMARY_SKILL and love building solutions that are both efficient and user-friendly.
 
-## 🌟 About Me  
-- 🎓 Enthusiast in **VLSI Design** and **SystemVerilog Testbenches**  
-- 💻 Learning and practicing **Python, Verilog, and GitHub workflows**  
-- 📘 Currently working on **Drive Ready 7.0** (VLSI notes & Verilog programs)  
-- 🏆 Actively building coding habits with **daily progress logs**  
+💻 Technologies & Tools
+Here are some of the technologies and tools I enjoy working with:
 
----
+🌱 What I'm Learning & Doing
+📖 I'm currently diving deeper into YOUR_CURRENT_LEARNING_TOPIC.
 
-## 📅 Daily Progress  
-Here I keep track of my growth every single day ✨  
+🚀 I'm actively looking for new opportunities and collaborations.
 
-📌 *Example format (update regularly)*  
-- **Sep 8, 2025** – 10 commits in `Drive-Ready-7.0`, learned about APB with multiple slaves.  
-- **Sep 7, 2025** – Wrote blogs on Python basics for beginners.  
-- **Sep 6, 2025** – Practiced Verilog FSM seat allocation project.  
-- **Sep 5, 2025** – Studied Universal Testbench architecture.  
+📊 GitHub Stats
+🤝 Connect with Me
+"The best way to predict the future is to create it."
 
-👉 I’ll keep updating this space daily with what I build & learn.  
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_USERNAME%26label%3DProfile%2520Views%26color%3D0e7c0e%26style%3Dflat" alt="Visitor Count">
+</div>
 
----
-
-## 🛠️ Tech Stack  
-- **Languages**: Python 🐍 | Verilog | SystemVerilog | C  
-- **Tools**: Git | GitHub | VS Code | ModelSim | Xilinx  
-- **Areas of Interest**: VLSI ⚡ | Digital Design | Verification | Problem Solving  
-
----
-
-## 📌 Featured Projects  
-- [**Drive-Ready-7.0**](https://github.com/S-Nikhil-Prince/Drive-Ready-7.0) – VLSI notes & Verilog programs  
-- [**verilog-100days**](https://github.com/S-Nikhil-Prince/verilog-100days) – Daily Verilog practice journey  
-- [**Code-Chef**](https://github.com/S-Nikhil-Prince/Code-Chef) – Python coding challenges  
-
----
-
-## 📊 GitHub Stats  
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Nikhil-Prince&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Nikhil-Prince&layout=compact&theme=radical)  
-
----
-
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
-- 📧 Email: *your-email@example.com*  
-- 📝 [Portfolio Website](#) *(if you create one)*  
-
----
-
-✨ *Thanks for visiting my profile! Stay tuned as I keep updating my daily progress here.*  
+<!-- Add more custom sections or badges here! For a full list of badges, check out Shields.io. -->

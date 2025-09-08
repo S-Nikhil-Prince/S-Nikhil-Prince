@@ -1,7 +1,16 @@
-# 👋 Hi, I’m Nikhil Prince  
+<h1 align="center">Hey 👋, I'm Nikhil Prince</h1>
 
-🎯 **VLSI & Python Enthusiast** | 💻 Exploring **Verilog, SystemVerilog, and Digital Design**  
-🚀 Consistency is my strength – coding, learning, and committing every day.  
+<p align="center">
+  <a href="https://github.com/S-Nikhil-Prince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=VLSI+%26+Python+Enthusiast;Verilog+%7C+SystemVerilog+%7C+Digital+Design;Consistency+is+my+strength;Learning+by+Building+Every+Day" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VLSI-Digital%20Design-blue?style=for-the-badge&logo=semiconductor-manufacturing" />
+  <img src="https://img.shields.io/badge/Verilog-SystemVerilog-green?style=for-the-badge&logo=verilog" />
+  <img src="https://img.shields.io/badge/Python-Coding-yellow?style=for-the-badge&logo=python" />
+</p>
 
 ---
 
@@ -39,6 +48,14 @@
 
 ---
 
+## 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Nikhil-Prince&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>  
+
+---
+
 ## 📅 Daily Progress  
 
 - **Sep 8, 2025** – 10 commits in *Drive-Ready-7.0* (notes on APB with multiple slaves)  
@@ -52,11 +69,26 @@
 
 ## 🌐 Connect  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nikhil-prince-sodadasi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/S-Nikhil-Prince" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>  
 
+---
 
-✨ *Minimal profile. Daily commits. Steady growth.*
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&color=blue&style=flat-square" alt="Profile Views" />
+</p>  
+
+---
+
+✨ *Interactive intro. Minimal profile. Daily commits. Steady growth.*

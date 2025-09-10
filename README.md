@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/S-Nikhil-Prince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=VLSI+%26+Digital+Design;Verilog+%26+SystemVerilog;Python+%26+Problem+Solving;AI+%26+Web+Development;Consistency+is+my+strength;Learning+by+Building+Every+Day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=VLSI+%26+Digital+Design;Verilog+%26+SystemVerilog;Python+%26;AI+Web+Development;Confidence+is+Key;Learning+by+Building+Every+Day" alt="Typing SVG" />
   </a>
 </p>
 

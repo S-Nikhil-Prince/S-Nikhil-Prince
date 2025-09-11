@@ -21,10 +21,14 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VLSI-Digital%20Design-blue?style=for-the-badge&logo=semiconductor-manufacturing" />
-  <img src="https://img.shields.io/badge/Verilog-SystemVerilog-green?style=for-the-badge&logo=verilog" />
-  <img src="https://img.shields.io/badge/Python-Coding-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Web%20Dev-HTML%20|%20CSS%20|%20JS-orange?style=for-the-badge&logo=web" />
+  <img src="https://img.shields.io/badge/VLSI%20-%20Digital%20Design-1e90ff?style=for-the-badge&logo=semanticscholar&logoColor=white" 
+       style="border-radius:12px; box-shadow:2px 2px 6px rgba(0,0,0,0.4); background:linear-gradient(135deg,#63b3ff,#1e90ff);" />
+  <img src="https://img.shields.io/badge/Verilog%20|%20SystemVerilog-28a745?style=for-the-badge&logo=verilog&logoColor=white" 
+       style="border-radius:12px; box-shadow:2px 2px 6px rgba(0,0,0,0.4); background:linear-gradient(135deg,#48d97c,#28a745);" />
+  <img src="https://img.shields.io/badge/Python%20-%20Coding-ffd43b?style=for-the-badge&logo=python&logoColor=3776AB" 
+       style="border-radius:12px; box-shadow:2px 2px 6px rgba(0,0,0,0.4); background:linear-gradient(135deg,#ffe873,#ffd43b);" />
+  <img src="https://img.shields.io/badge/Web%20Dev%20-%20HTML%2FCSS%2FJS-f08080?style=for-the-badge&logo=html5&logoColor=white" 
+       style="border-radius:12px; box-shadow:2px 2px 6px rgba(0,0,0,0.4); background:linear-gradient(135deg,#f59a9a,#f08080);" />
 </p>
 
 ---
@@ -78,13 +82,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-prince-sodadasi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+         style="border-radius:12px; box-shadow:2px 2px 6px rgba(0,0,0,0.4); background:linear-gradient(135deg,#4C9EDC,#0A66C2);" />
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         style="border-radius:12px; box-shadow:2px 2px 6px rgba(0,0,0,0.4); background:linear-gradient(135deg,#F06C5C,#D14836);" />
   </a>
   <a href="https://github.com/S-Nikhil-Prince" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white" 
+         style="border-radius:12px; box-shadow:2px 2px 6px rgba(0,0,0,0.4); background:linear-gradient(135deg,#444444,#171515);" />
   </a>
 </p>
 
@@ -93,7 +100,7 @@
 ## 👀 Profile Views  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<!-- PROFILE HEADER -->
+<!-- HEADER -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#3BAFDA;">Nikhil Prince</span></h1>
 
 <p align="center">
@@ -9,18 +9,16 @@
 
 ---
 
-<!-- ABOUT -->
 ## 🧠 About Me  
 
-💡 **VLSI Design & Verification Engineer in the making** — blending hardware design principles with software thinking.  
-🚀 Passionate about **Digital Systems, Verilog, SystemVerilog, and Python scripting**.  
-📚 Currently exploring **AI tools** & **web-based visualization** for engineering applications.  
-🧩 Strong believer in *“Consistency beats intensity — learn by building.”*
+💡 **VLSI Design & Verification enthusiast**, passionate about **Digital Logic, Verilog, and SystemVerilog**.  
+⚙️ Exploring **Cadence, AMD Vivado, and EDA Playground** for hardware design and simulation.  
+🚀 Love to automate and analyze results using **Python** and **VS Code**.  
+🌱 Motto: *Consistency beats intensity — learn by building, every day.*
 
 ---
 
-<!-- FEATURED REPOS -->
-## 📦 Featured Projects  
+## 📂 Featured Projects  
 
 <p align="center">
   <a href="https://github.com/S-Nikhil-Prince/VLSI-Projects">
@@ -42,21 +40,24 @@
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack  
+## 🛠️ Tools & Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=verilog,vscode,python,html,css,js,git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/AMD%20Vivado-%231F77B4.svg?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cadence-%23E03C31.svg?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA%20Playground-%23007ACC.svg?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 <p align="center" style="color:gray;">
-  <b>Focus Areas:</b> VLSI Design · Verification · Testbench Architecture · Python Automation · Front-End Dev
+  <b>Core Skills:</b> VLSI Design · RTL Coding · Testbench Architecture · Python Automation · Verification Flow
 </p>
 
 ---
 
-<!-- STATS -->
-## 📊 GitHub Overview  
+## 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=S-Nikhil-Prince&theme=transparent&hide_border=true&fire=3BAFDA&currStreakNum=3BAFDA&sideNums=9f9f9f&currStreakLabel=3BAFDA" height="165"/>
@@ -69,7 +70,6 @@
 
 ---
 
-<!-- ACTIVITY -->
 ## 📈 Contribution Graph  
 
 <p align="center">
@@ -78,7 +78,6 @@
 
 ---
 
-<!-- PROGRESS -->
 ## 🗓️ Recent Highlights  
 
 ✔️ **Oct 10, 2025** — Added new APB-based design to *VLSI-Projects*  
@@ -90,7 +89,6 @@
 
 ---
 
-<!-- CONTACT -->
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -107,7 +105,6 @@
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&style=for-the-badge&color=3BAFDA&label=Profile+Views" />
 </p>

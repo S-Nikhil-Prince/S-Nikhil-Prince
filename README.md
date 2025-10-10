@@ -42,69 +42,14 @@
 
 ## 🛠️ Tools & Technologies  
 
-<style>
-.tech-container {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 22px;
-  padding: 10px 0;
-}
-
-.tech-card {
-  width: 100px;
-  height: 100px;
-  background: #0d1117;
-  border-radius: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transition: 0.3s ease;
-  box-shadow: 0 0 12px rgba(0, 255, 255, 0.05);
-  border: 1px solid rgba(60, 200, 255, 0.15);
-}
-
-.tech-card:hover {
-  transform: translateY(-5px) scale(1.05);
-  box-shadow: 0 0 25px rgba(0, 255, 255, 0.45), 0 0 50px rgba(0, 150, 255, 0.3);
-  border: 1px solid rgba(0, 255, 255, 0.3);
-  background: linear-gradient(145deg, rgba(0, 180, 255, 0.1), rgba(0, 255, 255, 0.05));
-}
-
-.tech-card img {
-  width: 60px;
-  height: 60px;
-  filter: drop-shadow(0 0 4px rgba(0, 255, 255, 0.4));
-}
-</style>
-
-<div class="tech-container">
-
-  <div class="tech-card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Xilinx_logo.svg" alt="AMD Vivado" title="AMD Vivado">
-  </div>
-
-  <div class="tech-card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Cadence_Design_Systems_logo.svg" alt="Cadence" title="Cadence Design Suite">
-  </div>
-
-  <div class="tech-card">
-    <img src="https://edaplayground.com/static/img/EDAlogo.png" alt="EDA Playground" title="EDA Playground">
-  </div>
-
-  <div class="tech-card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" title="Visual Studio Code">
-  </div>
-
-  <div class="tech-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" title="GitHub">
-  </div>
-
-  <div class="tech-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" title="LinkedIn">
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AMD%20Vivado-%231F77B4.svg?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cadence-%23E03C31.svg?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA%20Playground-%23007ACC.svg?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
 <p align="center" style="color:gray;">
   <b>Core Skills:</b> VLSI Design · RTL Coding · Testbench Architecture · Python Automation · Verification Flow

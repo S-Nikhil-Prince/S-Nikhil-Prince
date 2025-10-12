@@ -18,10 +18,10 @@
 
 ## 📂 Featured Projects  
 
-| Project | Description |
+| Repositories | Description |
 |----------|-------------|
 | 🔹 [**VLSI-Projects**](https://github.com/S-Nikhil-Prince/VLSI-Projects) | All my design & verification projects with reports and PPTs. |
-| 🔹 [**Drive-Ready-7.0**](https://github.com/S-Nikhil-Prince/Drive-Ready-7.0) | A futuristic APB-based Verilog design & verification framework. |
+| 🔹 [**Drive-Ready-7.0**](https://github.com/S-Nikhil-Prince/Drive-Ready-7.0) | Contains all the contents,events and notes form my VLSI Course which is "Drive Ready" |
 | 🔹 [**verilog-100days**](https://github.com/S-Nikhil-Prince/verilog-100days) | Daily Verilog challenges for strengthening RTL and logic design. |
 | 🔹 [**VLSI-Interview-Questions**](https://github.com/S-Nikhil-Prince/VLSI-Interview-Questions) | Comprehensive Q&A notes for VLSI technical interviews. |
 | 🔹 [**Code-Chef**](https://github.com/S-Nikhil-Prince/Code-Chef) | Python solutions for coding and algorithm problems. |

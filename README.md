@@ -1,37 +1,44 @@
+<!-- Profile Header -->
 <div align="center">
-
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Boy working on laptop"/>
-    <h1 style="font-size: 2.4em; font-weight: bold; color: #00bcd4; margin: 0;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Boy working on laptop" style="border-radius: 50%;"/>
+    <h1 style="font-size: 2.5em; font-weight: bold; color: #00eaff; margin: 0;">
       👋 Hey there, I'm Nikhil Prince Sodadasi
     </h1>
   </div>
 
-  <p>
-    <a href="https://github.com/S-Nikhil-Prince">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=VLSI+Design+%26+Verification+Enthusiast;Passionate+about+Digital+Logic+%26+SystemVerilog;Learning+and+Building+Every+Day!"/>
-    </a>
-  </p>
+  <br>
 
+  <!-- Typing SVG -->
+  <a href="https://github.com/S-Nikhil-Prince">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=VLSI+Design+%26+Verification+Enthusiast;Passionate+about+Digital+Logic+%26+SystemVerilog;Learning+and+Building+Every+Day!" alt="Typing SVG"/>
+  </a>
+
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&label=Profile+Views&color=00bcd4&style=flat-square" alt="profile views"/>  
+    <span style="color: gray; font-size: 0.9em;"></span>
+  </p>
 </div>
 
 ---
 
 ## 🧠 About Me  
+
 💡 **VLSI Design & Verification enthusiast** passionate about **Digital Logic, Verilog, and SystemVerilog**.  
 ⚙️ Currently exploring **Cadence**, **AMD Vivado**, and **EDA Playground** for design & simulation.  
-🚀 I love automating verification and analysis flows using **Python** and **VS Code**.  
+🚀 Love automating verification and analysis flows using **Python** and **VS Code**.  
 🌱 *Motto:* “Consistency beats intensity — learn by building, every day.”  
 
 ---
 
 ## 📂 Featured Projects  
 
-| Repositories | Description |
-|----------|-------------|
+| Repository | Description |
+|-------------|-------------|
 | 🔹 [**VLSI-Projects**](https://github.com/S-Nikhil-Prince/VLSI-Projects) | All my design & verification projects with reports and PPTs. |
-| 🔹 [**Drive-Ready-7.0**](https://github.com/S-Nikhil-Prince/Drive-Ready-7.0) | Contains all the contents,events and notes form my VLSI Course which is "Drive Ready" |
-| 🔹 [**verilog-100days**](https://github.com/S-Nikhil-Prince/verilog-100days) | Daily Verilog challenges for strengthening RTL and logic design. |
+| 🔹 [**Drive-Ready-7.0**](https://github.com/S-Nikhil-Prince/Drive-Ready-7.0) | Contents, events, and notes from my VLSI course *Drive Ready*. |
+| 🔹 [**verilog-100days**](https://github.com/S-Nikhil-Prince/verilog-100days) | Daily Verilog challenges to strengthen RTL and logic design. |
 | 🔹 [**VLSI-Interview-Questions**](https://github.com/S-Nikhil-Prince/VLSI-Interview-Questions) | Comprehensive Q&A notes for VLSI technical interviews. |
 | 🔹 [**Code-Chef**](https://github.com/S-Nikhil-Prince/Code-Chef) | Python solutions for coding and algorithm problems. |
 
@@ -99,8 +106,18 @@
 
 ---
 
+<!-- Animated Footer Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=70&section=header&reversal=true"/>
+</p>
+
 <h3 align="center">✨ Passionate Learner · Daily Committer · Future VLSI Engineer ✨</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=70&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=80&section=footer"/>
+</p>
+
+<!-- Floating Neon Animation -->
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=S-Nikhil-Prince&data=followers,repositories,stars,commits&theme=darkmode&border_radius=12&title_color=00eaff&icon_color=00eaff"/>
 </p>

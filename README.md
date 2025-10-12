@@ -1,10 +1,19 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Nikhil Prince Sodadasi</span></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/S-Nikhil-Prince">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=VLSI+Design+%26+Verification+Enthusiast;Passionate+about+Digital+Logic+%26+SystemVerilog;Learning+and+Building+Every+Day!"/>
-  </a>
-</p>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Boy working on laptop"/>
+    <h1 style="font-size: 2.4em; font-weight: bold; color: #00bcd4; margin: 0;">
+      👋 Hey there, I'm Nikhil Prince Sodadasi
+    </h1>
+  </div>
+
+  <p>
+    <a href="https://github.com/S-Nikhil-Prince">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=VLSI+Design+%26+Verification+Enthusiast;Passionate+about+Digital+Logic+%26+SystemVerilog;Learning+and+Building+Every+Day!"/>
+    </a>
+  </p>
+
+</div>
 
 ---
 

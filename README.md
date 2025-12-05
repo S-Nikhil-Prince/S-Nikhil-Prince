@@ -47,15 +47,50 @@
 
 ---
 
-## 🧰 Tech Toolbox
+## 🚀 Projects
 
-| Category | Tools |
-|---------|-------|
-| **Core Expertise** | RTL Design, Testbench Architecture, Verification Methodologies |
-| **Languages** | Verilog, SystemVerilog, Python |
-| **EDA Tools** | Cadence, AMD Vivado, EDA Playground |
-| **Automation** | Python Scripting, Makefiles, Shell Tools |
-| **Collaboration** | Git, GitHub, VS Code, Markdown |
+> Each project has a small animated icon, repo link (if available), and a short neon-styled description.
+
+| Project | Icon | Description |
+|--------:|:----:|-------------|
+| **Smart Parking System using Verilog** | <img src="https://media.giphy.com/media/3o6ZsY0hQH0w0x6Q0Y/giphy.gif" width="48"/> | Designed a digital parking management system (slot detection, availability tracking, entry/exit control). Includes neat RTL + testbench. |
+| **APB Protocol Interfacing** | <img src="https://media.giphy.com/media/26BRqg4vV2YbW0g2U/giphy.gif" width="48"/> | Implemented AMBA APB Master–Slave architecture with register access and SystemVerilog-based verification. |
+| **Universal Testbench using Verilog** | <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="48"/> | Built a reusable verification environment with drivers, monitors, checkers, scoreboard & logging. |
+
+---
+
+## 🧰 Tech Toolbox & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-0F172A?style=for-the-badge&logo=systemverilog&logoColor=00E7FF"/>
+  <img src="https://img.shields.io/badge/Cadence-103A8D?style=for-the-badge&logo=cadence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vivado-4F46E5?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=github&logoColor=00E7FF"/>
+</p>
+
+---
+
+## 📊 Skills (Neon Bars)
+
+<div align="center">
+
+**RTL Design** ▓▓▓▓▓▓▓▓▓░░ 90%  
+**Verification (SV)** ▓▓▓▓▓▓▓▓▓▓░ 95%  
+**System Architecture** ▓▓▓▓▓▓▓▓▓░░ 85%  
+**Python & Automation** ▓▓▓▓▓▓▓▓▓░░ 85%  
+**CAD Tools (Cadence/Vivado)** ▓▓▓▓▓▓▓▓▓░░ 85%
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issued By | Badge |
+|--------------|-----------|-------|
+| **Cadence Certification – VLSI Design & Simulation Tools** | Cadence Design Systems | <img src="https://img.shields.io/badge/Cadence-Certified-103A8D?style=for-the-badge&logo=cadence&logoColor=white"/> |
 
 ---
 

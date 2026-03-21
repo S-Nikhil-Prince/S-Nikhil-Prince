@@ -1,9 +1,9 @@
-# Nikhil Prince Sodadasi
+                                                        # Nikhil Prince Sodadasi
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=VLSI+Design+%26+Verification+Enthusiast;SystemVerilog+Architect+in+the+Making;Design+·+Verify+·+Automate+·+Evolve" alt="Typing SVG" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&label=👁️‍🗨️+Profile+Views&color=00eaff&style=flat-square" alt="Profile Views"/>
+                            <img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&label=👁️‍🗨️+Profile+Views&color=00eaff&style=flat-square" alt="Profile Views"/>
   </p>
 ---
 

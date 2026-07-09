@@ -1,225 +1,130 @@
-<h1 align="center">
-Hi 👋, I'm <span style="color:#58A6FF">Nikhil Prince Sodadasi</span>
-</h1>
+\#
 
-<h3 align="center">
-RTL Design • Functional Verification • VLSI Enthusiast
-</h3>
+::: {align="center"}
+Hi 👋, I'm Nikhil Prince
+:::
 
+::: {align="center"}
+### RTL Design • Functional Verification • Digital Systems • AI Engineering
+
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=RTL+Design;Functional+Verification;SystemVerilog;AMBA+AXI%2FAPB;Digital+System+Design;AI+Powered+Engineering"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🚀 About Me
+
+Electronics & Communication Engineering student with a strong interest
+in **RTL Design**, **Functional Verification**, and **Digital System
+Design**. Alongside semiconductor engineering, I build AI-powered web
+applications and developer tools.
+
+-   🔭 Building **Schematic Lab**
+-   🌱 Learning **UVM, PCIe, SoC Verification**
+-   💡 Interested in reusable IPs and verification environments
+-   🎯 Goal: RTL / Verification Engineer
+
+------------------------------------------------------------------------
+
+## 🧠 Engineering Domains
+
+  RTL Design      Verification          Protocols   Tools
+  --------------- --------------------- ----------- ---------
+  FSM             SystemVerilog         APB         Cadence
+  Pipelines       Assertions            AXI         Vivado
+  Timing          Functional Coverage   UART        GTKWave
+  Digital Logic   Testbenches           SPI / I²C   Git
+
+------------------------------------------------------------------------
+
+## 💻 Tech Stack
+
+```{=html}
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=RTL+Design;SystemVerilog;Functional+Verification;AMBA+Protocols;Future+Chip+Designer"/>
-
+```
+`<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,git,github,linux,vscode,docker"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 👨‍💻 About Me
+## ⭐ Featured Projects
 
-🎓 Electronics & Communication Engineering Student
+### 🧩 Schematic Lab
 
-💙 Passionate about Digital Design and Functional Verification
+Interactive Digital Logic Design Platform with a modern UI for designing
+and simulating circuits.
 
-🧠 Currently learning
+### ⚙️ VLSI Projects
 
-- Advanced SystemVerilog
-- UVM
-- AMBA AXI
-- PCIe
-- SoC Verification
+RTL modules, testbenches, waveforms, and documentation.
 
-🚀 Goal
+### 📘 Verilog-100Days
 
-Become an RTL Design / Verification Engineer in the Semiconductor Industry.
+Daily Verilog coding challenge repository.
 
----
+### 📚 Drive Ready 7.0
 
-# ⚡ Domain
+Learning notes and semiconductor preparation.
 
-<table>
+### 🎨 AI Color Palette Generator
 
-<tr>
+Generate professional color palettes from images using AI.
 
-<td width="25%" align="center">
+------------------------------------------------------------------------
 
-## RTL
+## 📊 GitHub Analytics
 
-Verilog
-
-FSM
-
-Pipelining
-
-Timing
-
-</td>
-
-<td width="25%" align="center">
-
-## Verification
-
-SystemVerilog
-
-Assertions
-
-Coverage
-
-Testbench
-
-</td>
-
-<td width="25%" align="center">
-
-## Protocols
-
-APB
-
-AXI
-
-UART
-
-SPI
-
-I2C
-
-</td>
-
-<td width="25%" align="center">
-
-## Tools
-
-Vivado
-
-Cadence
-
-GTKWave
-
-EDA Playground
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💻 Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/SystemVerilog-darkgreen?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/UVM-red?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/C-lightgrey?style=for-the-badge">
-
-</p>
-
----
-
-# 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,matlab"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **VLSI Projects** | RTL Design, Testbenches, Functional Verification |
-| **Drive Ready 7.0** | Learning Journey & Documentation |
-| **Verilog-100Days** | Daily Verilog Coding Challenge |
-| **Schematic Lab** | Digital Logic Design Platform |
-| **Color Palette Generator** | AI Based Web Application |
-
----
-
-# 📊 GitHub Analytics
-
+```{=html}
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Nikhil-Prince&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Nikhil-Prince&layout=compact&theme=tokyonight"/>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-Nikhil-Prince&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Nikhil-Prince&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 🔥 GitHub Streak
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=S-Nikhil-Prince&theme=tokyonight"/>
-
+```
+`<img src="https://streak-stats.demolab.com?user=S-Nikhil-Prince&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 📈 Contribution Graph
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Nikhil-Prince&theme=tokyo-night"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Nikhil-Prince&theme=tokyo-night"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🏆 GitHub Trophies
+## 🎯 Current Focus
 
+-   Universal Testbench
+-   UVM Fundamentals
+-   Schematic Lab
+-   AI-assisted VLSI tools
+-   Open-source engineering projects
+
+------------------------------------------------------------------------
+
+## 📫 Connect
+
+-   GitHub: https://github.com/S-Nikhil-Prince
+-   LinkedIn: *(add your profile URL)*
+-   Email: *(add your email)*
+
+------------------------------------------------------------------------
+
+> **"Building tomorrow's silicon, one flip-flop at a time."**
+
+```{=html}
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=S-Nikhil-Prince&theme=tokyonight&margin-w=15"/>
-
+```
+`<img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&color=58A6FF&style=flat"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 🌐 Connect
-
-<p>
-
-<a href="https://github.com/S-Nikhil-Prince">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-
-</a>
-
-<a href="https://linkedin.com">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=S-Nikhil-Prince&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<h3 align="center">
-
-⭐ Designing Digital Hardware One Flip-Flop at a Time ⭐
-
-</h3>
+```
